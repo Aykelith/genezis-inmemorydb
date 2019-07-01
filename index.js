@@ -1,6 +1,7 @@
 export default class InMemoryDB {
-    constructor() {
+    constructor(settings = {}) {
         this._data = {};
+        this.settings = settings;
 
         this.set = this.set.bind(this);
         this.get = this.get.bind(this);
@@ -11,6 +12,6 @@ export default class InMemoryDB {
     }
 
     get(key) {
-        return this._data[key];
+        return this._data[key] || this.settings.defaultGetValue(key);
     }
-};
+}
