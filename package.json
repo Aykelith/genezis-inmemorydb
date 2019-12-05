@@ -1,6 +1,6 @@
 {
   "name": "@genezis/genezis-inmemorydb",
-  "version": "0.1.0110",
+  "version": "0.1.0111",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/Aykelith/genezis-inmemorydb/issues"
   },
-  "homepage": "https://github.com/Aykelith/genezis-inmemorydb#readme",
+  "homepage": "https://github.com/Aykelith/genezis-inmemorydb#readme"
 }
