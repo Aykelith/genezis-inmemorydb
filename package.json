@@ -1,0 +1,23 @@
+{
+  "name": "@genezis/genezis-inmemorydb",
+  "version": "0.1.0100",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aykelith/genezis-inmemorydb.git"
+  },
+  "author": "Alexandru Prisacariu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aykelith/genezis-inmemorydb/issues"
+  },
+  "homepage": "https://github.com/Aykelith/genezis-inmemorydb#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4"
+  }
+}
