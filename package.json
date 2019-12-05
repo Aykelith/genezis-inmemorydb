@@ -1,6 +1,6 @@
 {
   "name": "@genezis/genezis-inmemorydb",
-  "version": "0.1.0111",
+  "version": "0.1.0112",
   "description": "",
   "main": "index.js",
   "scripts": {
